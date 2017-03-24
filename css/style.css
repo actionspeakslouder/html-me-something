@@ -1,0 +1,38 @@
+body {
+    background-color: white;
+    color: black;
+}
+#PSA{
+    display:block;
+    position: static;
+    margin: auto;
+
+}
+#PSA-BG{
+    background-image: url("http://content.presspage.com/uploads/722/800_codingpicture.jpg?10000");
+}
+nav li{
+    display: inline-block;
+    list-style-type:none;
+    padding: 50px 50px;
+}
+a{
+
+    text-decoration:none;
+    color:blue;
+}
+h1,h2{
+    color:orange;
+}
+.img_class{
+    height:490px;
+    width:650px;
+}
+header img{
+    display:block;
+    margin: auto;
+}
+header h1{
+    display:block;
+    margin:auto;
+}
